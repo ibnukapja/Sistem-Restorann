@@ -1,0 +1,61 @@
+STRUK PEMESANAN
+===========================
+Nasi Goreng x10 = Rp150.000
+Nasi Ayam Goreng x2 = Rp40.000
+===========================
+Total Bayar:    Rp190.000
+Metode Pembayaran: Debit
+Tanggal Transaksi: 11-06-2025 08:28:43
+TERIMA KASIH
+
+
+---END_STRUK---
+
+STRUK PEMESANAN
+===========================
+Nasi Bakar x2 = Rp20.000
+===========================
+Total Bayar:    Rp20.000
+Metode Pembayaran: Tunai
+Tanggal Transaksi: 11-06-2025 08:30:10
+TERIMA KASIH
+
+
+---END_STRUK---
+
+STRUK PEMESANAN
+===========================
+Nasi Goreng x1 = Rp15.000
+===========================
+Total Bayar:    Rp15.000
+Metode Pembayaran: Debit
+Tanggal Transaksi: 11-06-2025 08:44:26
+TERIMA KASIH
+
+
+---END_STRUK---
+
+STRUK PEMESANAN
+===========================
+Nasi Goreng x100 = Rp1.500.000
+===========================
+Total Bayar:    Rp1.500.000
+Metode Pembayaran: QRIS
+Tanggal Transaksi: 11-06-2025 08:57:58
+TERIMA KASIH
+
+
+---END_STRUK---
+
+STRUK PEMESANAN
+===========================
+Nasi Goreng x1 = Rp15.000
+===========================
+Total Bayar:    Rp15.000
+Metode Pembayaran: Tunai
+Tanggal Transaksi: 11-06-2025 08:59:05
+TERIMA KASIH
+
+
+---END_STRUK---
+

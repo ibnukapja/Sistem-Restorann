@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/PesanMakananFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/Pembayaran.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/Admin.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/Presensi.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/Menu.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/LihatPesananSayaFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/Struk.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/LoginFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/LoginAdminFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/DetailPesanan.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/LihatMenuFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/MenuPelangganFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/LaporanPresensiFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/AdminLaporanFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/InputPresensiFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/TambahMenuFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/MenuKaryawanFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/Pelanggan.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/Pesanan.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/gui/MenuAdminFrame.java</file>
+            <file>file:/C:/Users/WIN10/Documents/NetBeansProjects/SistemRestoran/src/com/restoran/model/LaporanPresensi.java</file>
+        </group>
+    </open-files>
+</project-private>

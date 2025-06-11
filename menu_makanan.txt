@@ -1,0 +1,5 @@
+Nasi Goreng;15000
+Nasi Ayam Goreng;20000
+Nasi Ayam Bakar;12000
+Nasi Bakar;10000
+Es Degan;5000
